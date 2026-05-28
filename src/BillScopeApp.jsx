@@ -763,8 +763,8 @@ function Footer() {
           ))}
         </div>
         <div style={{ borderTop: "1px solid rgba(16,185,129,0.1)", paddingTop: 20, display: "flex", justifyContent: "space-between", flexWrap: "wrap", gap: 8 }}>
-          <span style={{ fontSize: 12, color: "#475569" }}>© 2025 BillScope. Not affiliated with the Government of Kenya. For informational purposes only.</span>
-          <span style={{ fontSize: 12, color: "#475569" }}>Built with ❤️ for Kenyan citizens.</span>
+          <span style={{ fontSize: 12, color: "#475569" }}>© 2026 BillScope Benngetha4@gmail.com.</span>
+          <span style={{ fontSize: 12, color: "#475569" }}>Built Kenyan Mwananchi.</span>
         </div>
       </div>
       <style>{`
